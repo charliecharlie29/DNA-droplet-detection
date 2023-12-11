@@ -1,5 +1,5 @@
 # DNA-droplet-detection
-## Project 
+## Project Description
 - Algorithm for detecting and extracting DNA droplets for further analysis
 
 ## File Description
