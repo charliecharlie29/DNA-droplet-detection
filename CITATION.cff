@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DNA-Droplet-Detection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kuan-Lin
+    family-names: Chen
+    email: kchen89@jhu.edu
+    affiliation: Johns Hopkins University
+  - given-names: Eli
+    family-names: Kengmana
+    email: ekengma1@jhu.edu
+    affiliation: Johns Hopkins University
+    orcid: 'https://orcid.org/0000-0003-0140-8270'
+  - given-names: Rebecca
+    family-names: Schulman
+    email: rschulm3@jhu.edu
+    affiliation: Johns Hopkins University
+    orcid: 'https://orcid.org/0000-0003-4555-3162'
+repository-code: 'https://github.com/charliecharlie29/DNA-droplet-detection'
